@@ -11,5 +11,6 @@ Combinatorics Problem by Memoization in Dynamic Programming <br> 동적 프로�
 ### Stack
 - Data Structure : Stack <br> 배열로 스택 구현 <br> https://www.acmicpc.net/problem/10828
 - Stack Application Problem (VPS) <br> 주어진 괄호 문자열이 유효한 괄호 문자열인지 아닌지 스택으로 판단하는 문제 <br> https://www.acmicpc.net/problem/9012
+- Stack Application Problem (Postfix Notation) <br> 스택을 이용해 후위 표기법으로 되어있는 식 계산 <br> https://www.acmicpc.net/problem/1935
 
 Calculating Mode, Median, Mean, Range <br> 최빈값, 중간값, 평균값, 범위 구하기 <br> https://www.acmicpc.net/problem/2108
