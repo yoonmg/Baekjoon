@@ -19,3 +19,5 @@ Combinatorics Problem by Memoization in Dynamic Programming <br> 동적 프로�
 - Queue Application Problem (Josephus Problem) <br> 요세푸스 순열을 큐를 이용해 풀기 <br> https://www.acmicpc.net/problem/11866
 
 Calculating Mode, Median, Mean, Range <br> 최빈값, 중간값, 평균값, 범위 구하기 <br> https://www.acmicpc.net/problem/2108
+
+Brute Force Algorithm : Blackjack Problem <br> 블랙잭 문제를 브루트포스 알고리즘으로 풀기 <br> https://www.acmicpc.net/problem/2798
