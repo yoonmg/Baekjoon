@@ -18,6 +18,9 @@ Combinatorics Problem by Memoization in Dynamic Programming <br> 동적 프로�
 - Queue Application Problem <br> 맨 위의 카드는 버리고 다음 카드는 맨 밑으로 넣는 과정을 반복하면서 남는 카드를 큐를 이용해 구하는 문제 <br> https://www.acmicpc.net/problem/2164
 - Queue Application Problem (Josephus Problem) <br> 요세푸스 순열을 큐를 이용해 풀기 <br> https://www.acmicpc.net/problem/11866
 
+### Deque
+- Data Structure : Deque <br> 배열로 덱 구현 <br> https://www.acmicpc.net/problem/10866
+
 Calculating Mode, Median, Mean, Range <br> 최빈값, 중간값, 평균값, 범위 구하기 <br> https://www.acmicpc.net/problem/2108
 
 Brute Force Algorithm : Blackjack Problem <br> 블랙잭 문제를 브루트포스 알고리즘으로 풀기 <br> https://www.acmicpc.net/problem/2798
